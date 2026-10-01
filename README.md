@@ -1,5 +1,5 @@
 # 🎵 SlimeGuessItBot
-
+![gif]([https://media.giphy.com/media/XXXX/giphy.gif](https://i.pinimg.com/originals/14/83/0f/14830fdfd2fac2601a7f5897faee4214.gif))
 A Telegram bot for underground music lovers. Listen to a short audio clip and guess the track — if you know, you know.
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java)
