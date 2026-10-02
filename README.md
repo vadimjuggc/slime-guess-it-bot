@@ -49,4 +49,25 @@ A Telegram bot for underground music lovers. Listen to a short audio clip and gu
 
 ## 🚀 How to Run
 
-**Requirements:** Java 17+, Maven, Telegram Bot
+**Requirements:** Java 17+, Maven, Telegram Bot Token
+
+1. Clone the repository
+```bash
+git clone https://github.com/vadimjuggc/slime-guess-it-bot.git
+cd slime-guess-it-bot
+```
+2. Add your bot token and tracks to the config
+
+3. Run
+```bash
+mvn compile exec:java
+```
+
+---
+
+![gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejQzMDRvNzJxb3V5YnVwMzNvbTRxZHY1b3dlMDhkY3JkazFmcDJkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Uc4LX3KQLAg4ZYzUop/giphy.gif)
+
+## 👨‍💻 Author
+
+**Vadim Guk** — 2nd year student at BSUIR, Computer Engineering  
+[GitHub](https://github.com/vadimjuggc) · [Telegram](https://t.me/sebastian772)
